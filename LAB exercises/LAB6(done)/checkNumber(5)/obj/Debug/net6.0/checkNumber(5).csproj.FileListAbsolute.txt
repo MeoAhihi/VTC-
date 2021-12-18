@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB6\checkNumber(5)\bin\Debug\net6.0\checkNumber(5).exe
+D:\LAB exercises\LAB6\checkNumber(5)\bin\Debug\net6.0\checkNumber(5).deps.json
+D:\LAB exercises\LAB6\checkNumber(5)\bin\Debug\net6.0\checkNumber(5).runtimeconfig.json
+D:\LAB exercises\LAB6\checkNumber(5)\bin\Debug\net6.0\checkNumber(5).dll
+D:\LAB exercises\LAB6\checkNumber(5)\bin\Debug\net6.0\ref\checkNumber(5).dll
+D:\LAB exercises\LAB6\checkNumber(5)\bin\Debug\net6.0\checkNumber(5).pdb
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).AssemblyInfo.cs
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).dll
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\ref\checkNumber(5).dll
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).pdb
+D:\LAB exercises\LAB6\checkNumber(5)\obj\Debug\net6.0\checkNumber(5).genruntimeconfig.cache

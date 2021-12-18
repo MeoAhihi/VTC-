@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).AssemblyInfo.cs
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB6\ScoreCriteria(4)\bin\Debug\net6.0\ScoreCriteria(4).exe
+D:\LAB exercises\LAB6\ScoreCriteria(4)\bin\Debug\net6.0\ScoreCriteria(4).deps.json
+D:\LAB exercises\LAB6\ScoreCriteria(4)\bin\Debug\net6.0\ScoreCriteria(4).runtimeconfig.json
+D:\LAB exercises\LAB6\ScoreCriteria(4)\bin\Debug\net6.0\ScoreCriteria(4).dll
+D:\LAB exercises\LAB6\ScoreCriteria(4)\bin\Debug\net6.0\ref\ScoreCriteria(4).dll
+D:\LAB exercises\LAB6\ScoreCriteria(4)\bin\Debug\net6.0\ScoreCriteria(4).pdb
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).dll
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ref\ScoreCriteria(4).dll
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).pdb
+D:\LAB exercises\LAB6\ScoreCriteria(4)\obj\Debug\net6.0\ScoreCriteria(4).genruntimeconfig.cache
