@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PrimeArray(7)/1.0.0": {
+        "runtime": {
+          "PrimeArray(7).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeArray(7)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

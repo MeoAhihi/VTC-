@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).AssemblyInfo.cs
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB5\UpperCase(8)\bin\Debug\net6.0\UpperCase(8).exe
+D:\LAB exercises\LAB5\UpperCase(8)\bin\Debug\net6.0\UpperCase(8).deps.json
+D:\LAB exercises\LAB5\UpperCase(8)\bin\Debug\net6.0\UpperCase(8).runtimeconfig.json
+D:\LAB exercises\LAB5\UpperCase(8)\bin\Debug\net6.0\UpperCase(8).dll
+D:\LAB exercises\LAB5\UpperCase(8)\bin\Debug\net6.0\ref\UpperCase(8).dll
+D:\LAB exercises\LAB5\UpperCase(8)\bin\Debug\net6.0\UpperCase(8).pdb
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).dll
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\ref\UpperCase(8).dll
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).pdb
+D:\LAB exercises\LAB5\UpperCase(8)\obj\Debug\net6.0\UpperCase(8).genruntimeconfig.cache
