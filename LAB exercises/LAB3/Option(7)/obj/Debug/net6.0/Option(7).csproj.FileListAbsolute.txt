@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB3\Option(7)\bin\Debug\net6.0\Option(7).exe
+D:\LAB exercises\LAB3\Option(7)\bin\Debug\net6.0\Option(7).deps.json
+D:\LAB exercises\LAB3\Option(7)\bin\Debug\net6.0\Option(7).runtimeconfig.json
+D:\LAB exercises\LAB3\Option(7)\bin\Debug\net6.0\Option(7).dll
+D:\LAB exercises\LAB3\Option(7)\bin\Debug\net6.0\ref\Option(7).dll
+D:\LAB exercises\LAB3\Option(7)\bin\Debug\net6.0\Option(7).pdb
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).AssemblyInfo.cs
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).dll
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\ref\Option(7).dll
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).pdb
+D:\LAB exercises\LAB3\Option(7)\obj\Debug\net6.0\Option(7).genruntimeconfig.cache
