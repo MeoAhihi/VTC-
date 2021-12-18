@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB4\specialCharacter\bin\Debug\net6.0\specialCharacter.exe
+D:\LAB exercises\LAB4\specialCharacter\bin\Debug\net6.0\specialCharacter.deps.json
+D:\LAB exercises\LAB4\specialCharacter\bin\Debug\net6.0\specialCharacter.runtimeconfig.json
+D:\LAB exercises\LAB4\specialCharacter\bin\Debug\net6.0\specialCharacter.dll
+D:\LAB exercises\LAB4\specialCharacter\bin\Debug\net6.0\ref\specialCharacter.dll
+D:\LAB exercises\LAB4\specialCharacter\bin\Debug\net6.0\specialCharacter.pdb
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.csproj.AssemblyReference.cache
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.AssemblyInfoInputs.cache
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.AssemblyInfo.cs
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.dll
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\ref\specialCharacter.dll
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.pdb
+D:\LAB exercises\LAB4\specialCharacter\obj\Debug\net6.0\specialCharacter.genruntimeconfig.cache

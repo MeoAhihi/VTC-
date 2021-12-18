@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB4\PrimeTest(1)\bin\Debug\net6.0\PrimeTest(1).exe
+D:\LAB exercises\LAB4\PrimeTest(1)\bin\Debug\net6.0\PrimeTest(1).deps.json
+D:\LAB exercises\LAB4\PrimeTest(1)\bin\Debug\net6.0\PrimeTest(1).runtimeconfig.json
+D:\LAB exercises\LAB4\PrimeTest(1)\bin\Debug\net6.0\PrimeTest(1).dll
+D:\LAB exercises\LAB4\PrimeTest(1)\bin\Debug\net6.0\ref\PrimeTest(1).dll
+D:\LAB exercises\LAB4\PrimeTest(1)\bin\Debug\net6.0\PrimeTest(1).pdb
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).AssemblyInfo.cs
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).dll
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\ref\PrimeTest(1).dll
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).pdb
+D:\LAB exercises\LAB4\PrimeTest(1)\obj\Debug\net6.0\PrimeTest(1).genruntimeconfig.cache

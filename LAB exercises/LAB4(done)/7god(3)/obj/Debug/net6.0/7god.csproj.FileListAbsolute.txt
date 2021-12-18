@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB4\7god\bin\Debug\net6.0\7god.exe
+D:\LAB exercises\LAB4\7god\bin\Debug\net6.0\7god.deps.json
+D:\LAB exercises\LAB4\7god\bin\Debug\net6.0\7god.runtimeconfig.json
+D:\LAB exercises\LAB4\7god\bin\Debug\net6.0\7god.dll
+D:\LAB exercises\LAB4\7god\bin\Debug\net6.0\ref\7god.dll
+D:\LAB exercises\LAB4\7god\bin\Debug\net6.0\7god.pdb
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.csproj.AssemblyReference.cache
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.AssemblyInfoInputs.cache
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.AssemblyInfo.cs
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.dll
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\ref\7god.dll
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.pdb
+D:\LAB exercises\LAB4\7god\obj\Debug\net6.0\7god.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB4\SumDigit\bin\Debug\net6.0\SumDigit.exe
+D:\LAB exercises\LAB4\SumDigit\bin\Debug\net6.0\SumDigit.deps.json
+D:\LAB exercises\LAB4\SumDigit\bin\Debug\net6.0\SumDigit.runtimeconfig.json
+D:\LAB exercises\LAB4\SumDigit\bin\Debug\net6.0\SumDigit.dll
+D:\LAB exercises\LAB4\SumDigit\bin\Debug\net6.0\ref\SumDigit.dll
+D:\LAB exercises\LAB4\SumDigit\bin\Debug\net6.0\SumDigit.pdb
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.csproj.AssemblyReference.cache
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.AssemblyInfoInputs.cache
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.AssemblyInfo.cs
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.dll
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\ref\SumDigit.dll
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.pdb
+D:\LAB exercises\LAB4\SumDigit\obj\Debug\net6.0\SumDigit.genruntimeconfig.cache

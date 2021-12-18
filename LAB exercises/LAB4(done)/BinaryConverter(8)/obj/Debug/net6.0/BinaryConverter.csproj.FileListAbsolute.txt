@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB4\BinaryConverter\bin\Debug\net6.0\BinaryConverter.exe
+D:\LAB exercises\LAB4\BinaryConverter\bin\Debug\net6.0\BinaryConverter.deps.json
+D:\LAB exercises\LAB4\BinaryConverter\bin\Debug\net6.0\BinaryConverter.runtimeconfig.json
+D:\LAB exercises\LAB4\BinaryConverter\bin\Debug\net6.0\BinaryConverter.dll
+D:\LAB exercises\LAB4\BinaryConverter\bin\Debug\net6.0\ref\BinaryConverter.dll
+D:\LAB exercises\LAB4\BinaryConverter\bin\Debug\net6.0\BinaryConverter.pdb
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.csproj.AssemblyReference.cache
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.AssemblyInfoInputs.cache
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.AssemblyInfo.cs
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.dll
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\ref\BinaryConverter.dll
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.pdb
+D:\LAB exercises\LAB4\BinaryConverter\obj\Debug\net6.0\BinaryConverter.genruntimeconfig.cache

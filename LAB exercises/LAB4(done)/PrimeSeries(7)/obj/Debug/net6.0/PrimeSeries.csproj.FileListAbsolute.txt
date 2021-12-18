@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB4\PrimeSeries\bin\Debug\net6.0\PrimeSeries.exe
+D:\LAB exercises\LAB4\PrimeSeries\bin\Debug\net6.0\PrimeSeries.deps.json
+D:\LAB exercises\LAB4\PrimeSeries\bin\Debug\net6.0\PrimeSeries.runtimeconfig.json
+D:\LAB exercises\LAB4\PrimeSeries\bin\Debug\net6.0\PrimeSeries.dll
+D:\LAB exercises\LAB4\PrimeSeries\bin\Debug\net6.0\ref\PrimeSeries.dll
+D:\LAB exercises\LAB4\PrimeSeries\bin\Debug\net6.0\PrimeSeries.pdb
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.csproj.AssemblyReference.cache
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.AssemblyInfoInputs.cache
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.AssemblyInfo.cs
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.dll
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\ref\PrimeSeries.dll
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.pdb
+D:\LAB exercises\LAB4\PrimeSeries\obj\Debug\net6.0\PrimeSeries.genruntimeconfig.cache
