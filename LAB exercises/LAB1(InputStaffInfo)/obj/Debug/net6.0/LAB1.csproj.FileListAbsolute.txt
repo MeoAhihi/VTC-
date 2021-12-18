@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB1(InputStaffInfo)\bin\Debug\net6.0\LAB1.exe
+D:\LAB exercises\LAB1(InputStaffInfo)\bin\Debug\net6.0\LAB1.deps.json
+D:\LAB exercises\LAB1(InputStaffInfo)\bin\Debug\net6.0\LAB1.runtimeconfig.json
+D:\LAB exercises\LAB1(InputStaffInfo)\bin\Debug\net6.0\LAB1.dll
+D:\LAB exercises\LAB1(InputStaffInfo)\bin\Debug\net6.0\ref\LAB1.dll
+D:\LAB exercises\LAB1(InputStaffInfo)\bin\Debug\net6.0\LAB1.pdb
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.csproj.AssemblyReference.cache
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.AssemblyInfoInputs.cache
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.AssemblyInfo.cs
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.dll
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\ref\LAB1.dll
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.pdb
+D:\LAB exercises\LAB1(InputStaffInfo)\obj\Debug\net6.0\LAB1.genruntimeconfig.cache
