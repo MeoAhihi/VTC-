@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).AssemblyInfo.cs
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB7\Banking(4)\bin\Debug\net6.0\Banking(4).exe
+D:\LAB exercises\LAB7\Banking(4)\bin\Debug\net6.0\Banking(4).deps.json
+D:\LAB exercises\LAB7\Banking(4)\bin\Debug\net6.0\Banking(4).runtimeconfig.json
+D:\LAB exercises\LAB7\Banking(4)\bin\Debug\net6.0\Banking(4).dll
+D:\LAB exercises\LAB7\Banking(4)\bin\Debug\net6.0\ref\Banking(4).dll
+D:\LAB exercises\LAB7\Banking(4)\bin\Debug\net6.0\Banking(4).pdb
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).dll
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\ref\Banking(4).dll
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).pdb
+D:\LAB exercises\LAB7\Banking(4)\obj\Debug\net6.0\Banking(4).genruntimeconfig.cache

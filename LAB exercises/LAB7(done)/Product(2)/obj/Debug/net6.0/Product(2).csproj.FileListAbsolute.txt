@@ -1,0 +1,15 @@
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).csproj.AssemblyReference.cache
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).AssemblyInfoInputs.cache
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).AssemblyInfo.cs
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).csproj.CoreCompileInputs.cache
+D:\LAB exercises\LAB7\Product(2)\bin\Debug\net6.0\Product(2).exe
+D:\LAB exercises\LAB7\Product(2)\bin\Debug\net6.0\Product(2).deps.json
+D:\LAB exercises\LAB7\Product(2)\bin\Debug\net6.0\Product(2).runtimeconfig.json
+D:\LAB exercises\LAB7\Product(2)\bin\Debug\net6.0\Product(2).dll
+D:\LAB exercises\LAB7\Product(2)\bin\Debug\net6.0\ref\Product(2).dll
+D:\LAB exercises\LAB7\Product(2)\bin\Debug\net6.0\Product(2).pdb
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).dll
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\ref\Product(2).dll
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).pdb
+D:\LAB exercises\LAB7\Product(2)\obj\Debug\net6.0\Product(2).genruntimeconfig.cache
