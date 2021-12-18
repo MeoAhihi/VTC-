@@ -1,0 +1,15 @@
+D:\1000BT\AvrScore\bin\Debug\net6.0\AvrScore.exe
+D:\1000BT\AvrScore\bin\Debug\net6.0\AvrScore.deps.json
+D:\1000BT\AvrScore\bin\Debug\net6.0\AvrScore.runtimeconfig.json
+D:\1000BT\AvrScore\bin\Debug\net6.0\AvrScore.dll
+D:\1000BT\AvrScore\bin\Debug\net6.0\ref\AvrScore.dll
+D:\1000BT\AvrScore\bin\Debug\net6.0\AvrScore.pdb
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.csproj.AssemblyReference.cache
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.AssemblyInfoInputs.cache
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.AssemblyInfo.cs
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.csproj.CoreCompileInputs.cache
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.dll
+D:\1000BT\AvrScore\obj\Debug\net6.0\ref\AvrScore.dll
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.pdb
+D:\1000BT\AvrScore\obj\Debug\net6.0\AvrScore.genruntimeconfig.cache
