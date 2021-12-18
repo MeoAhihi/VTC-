@@ -1,0 +1,15 @@
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.csproj.AssemblyReference.cache
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.AssemblyInfoInputs.cache
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.AssemblyInfo.cs
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.csproj.CoreCompileInputs.cache
+D:\1000BT\SmallPrime\bin\Debug\net6.0\SmallPrime.exe
+D:\1000BT\SmallPrime\bin\Debug\net6.0\SmallPrime.deps.json
+D:\1000BT\SmallPrime\bin\Debug\net6.0\SmallPrime.runtimeconfig.json
+D:\1000BT\SmallPrime\bin\Debug\net6.0\SmallPrime.dll
+D:\1000BT\SmallPrime\bin\Debug\net6.0\ref\SmallPrime.dll
+D:\1000BT\SmallPrime\bin\Debug\net6.0\SmallPrime.pdb
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.dll
+D:\1000BT\SmallPrime\obj\Debug\net6.0\ref\SmallPrime.dll
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.pdb
+D:\1000BT\SmallPrime\obj\Debug\net6.0\SmallPrime.genruntimeconfig.cache
