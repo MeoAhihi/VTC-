@@ -1,0 +1,15 @@
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\bin\Debug\net6.0\RepeatChar(1).exe
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\bin\Debug\net6.0\RepeatChar(1).deps.json
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\bin\Debug\net6.0\RepeatChar(1).runtimeconfig.json
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\bin\Debug\net6.0\RepeatChar(1).dll
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\bin\Debug\net6.0\ref\RepeatChar(1).dll
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\bin\Debug\net6.0\RepeatChar(1).pdb
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).csproj.AssemblyReference.cache
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).AssemblyInfoInputs.cache
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).AssemblyInfo.cs
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).csproj.CoreCompileInputs.cache
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).dll
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\ref\RepeatChar(1).dll
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).pdb
+D:\VTC#\LAB exercises\LAB8\RepeatChar(1)\obj\Debug\net6.0\RepeatChar(1).genruntimeconfig.cache
