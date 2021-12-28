@@ -1,0 +1,15 @@
+D:\VTC#\LAB exercises\LAB9\Query(3)\bin\Debug\net6.0\Query(3).exe
+D:\VTC#\LAB exercises\LAB9\Query(3)\bin\Debug\net6.0\Query(3).deps.json
+D:\VTC#\LAB exercises\LAB9\Query(3)\bin\Debug\net6.0\Query(3).runtimeconfig.json
+D:\VTC#\LAB exercises\LAB9\Query(3)\bin\Debug\net6.0\Query(3).dll
+D:\VTC#\LAB exercises\LAB9\Query(3)\bin\Debug\net6.0\ref\Query(3).dll
+D:\VTC#\LAB exercises\LAB9\Query(3)\bin\Debug\net6.0\Query(3).pdb
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).csproj.AssemblyReference.cache
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).AssemblyInfoInputs.cache
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).AssemblyInfo.cs
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).csproj.CoreCompileInputs.cache
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).dll
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\ref\Query(3).dll
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).pdb
+D:\VTC#\LAB exercises\LAB9\Query(3)\obj\Debug\net6.0\Query(3).genruntimeconfig.cache

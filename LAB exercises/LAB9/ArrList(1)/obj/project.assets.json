@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VTC#\\LAB exercises\\LAB9\\Calculator(1)\\Calculator(1).csproj",
+      "projectUniqueName": "D:\\VTC#\\LAB exercises\\LAB9\\ArrList(1)\\Calculator(1).csproj",
       "projectName": "Calculator(1)",
-      "projectPath": "D:\\VTC#\\LAB exercises\\LAB9\\Calculator(1)\\Calculator(1).csproj",
+      "projectPath": "D:\\VTC#\\LAB exercises\\LAB9\\ArrList(1)\\Calculator(1).csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\VTC#\\LAB exercises\\LAB9\\Calculator(1)\\obj\\",
+      "outputPath": "D:\\VTC#\\LAB exercises\\LAB9\\ArrList(1)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

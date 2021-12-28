@@ -1,0 +1,15 @@
+D:\VTC#\LAB exercises\LAB9\ex\bin\Debug\net6.0\ex.exe
+D:\VTC#\LAB exercises\LAB9\ex\bin\Debug\net6.0\ex.deps.json
+D:\VTC#\LAB exercises\LAB9\ex\bin\Debug\net6.0\ex.runtimeconfig.json
+D:\VTC#\LAB exercises\LAB9\ex\bin\Debug\net6.0\ex.dll
+D:\VTC#\LAB exercises\LAB9\ex\bin\Debug\net6.0\ref\ex.dll
+D:\VTC#\LAB exercises\LAB9\ex\bin\Debug\net6.0\ex.pdb
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.csproj.AssemblyReference.cache
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.AssemblyInfoInputs.cache
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.AssemblyInfo.cs
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.csproj.CoreCompileInputs.cache
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.dll
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ref\ex.dll
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.pdb
+D:\VTC#\LAB exercises\LAB9\ex\obj\Debug\net6.0\ex.genruntimeconfig.cache
