@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2wayLinkedList/1.0.0": {
+        "runtime": {
+          "2wayLinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2wayLinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

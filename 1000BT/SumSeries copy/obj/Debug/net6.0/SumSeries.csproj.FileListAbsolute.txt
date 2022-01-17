@@ -1,0 +1,30 @@
+D:\1000BT\SumSeries\bin\Debug\net6.0\SumSeries.exe
+D:\1000BT\SumSeries\bin\Debug\net6.0\SumSeries.deps.json
+D:\1000BT\SumSeries\bin\Debug\net6.0\SumSeries.runtimeconfig.json
+D:\1000BT\SumSeries\bin\Debug\net6.0\SumSeries.dll
+D:\1000BT\SumSeries\bin\Debug\net6.0\ref\SumSeries.dll
+D:\1000BT\SumSeries\bin\Debug\net6.0\SumSeries.pdb
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.csproj.AssemblyReference.cache
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.AssemblyInfoInputs.cache
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.AssemblyInfo.cs
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.csproj.CoreCompileInputs.cache
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.dll
+D:\1000BT\SumSeries\obj\Debug\net6.0\ref\SumSeries.dll
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.pdb
+D:\1000BT\SumSeries\obj\Debug\net6.0\SumSeries.genruntimeconfig.cache
+D:\VTC#\1000BT\SumSeries copy\bin\Debug\net6.0\SumSeries.exe
+D:\VTC#\1000BT\SumSeries copy\bin\Debug\net6.0\SumSeries.deps.json
+D:\VTC#\1000BT\SumSeries copy\bin\Debug\net6.0\SumSeries.runtimeconfig.json
+D:\VTC#\1000BT\SumSeries copy\bin\Debug\net6.0\SumSeries.dll
+D:\VTC#\1000BT\SumSeries copy\bin\Debug\net6.0\ref\SumSeries.dll
+D:\VTC#\1000BT\SumSeries copy\bin\Debug\net6.0\SumSeries.pdb
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.csproj.AssemblyReference.cache
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.AssemblyInfoInputs.cache
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.AssemblyInfo.cs
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.csproj.CoreCompileInputs.cache
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.dll
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\ref\SumSeries.dll
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.pdb
+D:\VTC#\1000BT\SumSeries copy\obj\Debug\net6.0\SumSeries.genruntimeconfig.cache

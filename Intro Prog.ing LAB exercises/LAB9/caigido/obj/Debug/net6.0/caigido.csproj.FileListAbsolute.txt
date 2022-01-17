@@ -1,0 +1,5 @@
+D:\VTC#\LAB exercises\LAB9\caigido\obj\Debug\net6.0\caigido.csproj.AssemblyReference.cache
+D:\VTC#\LAB exercises\LAB9\caigido\obj\Debug\net6.0\caigido.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\LAB exercises\LAB9\caigido\obj\Debug\net6.0\caigido.AssemblyInfoInputs.cache
+D:\VTC#\LAB exercises\LAB9\caigido\obj\Debug\net6.0\caigido.AssemblyInfo.cs
+D:\VTC#\LAB exercises\LAB9\caigido\obj\Debug\net6.0\caigido.csproj.CoreCompileInputs.cache

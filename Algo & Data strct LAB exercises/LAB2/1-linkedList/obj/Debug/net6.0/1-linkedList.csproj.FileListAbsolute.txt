@@ -1,0 +1,15 @@
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\bin\Debug\net6.0\1-linkedList.exe
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\bin\Debug\net6.0\1-linkedList.deps.json
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\bin\Debug\net6.0\1-linkedList.runtimeconfig.json
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\bin\Debug\net6.0\1-linkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\bin\Debug\net6.0\ref\1-linkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\bin\Debug\net6.0\1-linkedList.pdb
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.csproj.AssemblyReference.cache
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.AssemblyInfoInputs.cache
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.AssemblyInfo.cs
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.csproj.CoreCompileInputs.cache
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\ref\1-linkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.pdb
+D:\VTC#\Algo & Data strct LAB exercises\LAB2\1-linkedList\obj\Debug\net6.0\1-linkedList.genruntimeconfig.cache

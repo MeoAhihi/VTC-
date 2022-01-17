@@ -1,0 +1,15 @@
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.csproj.AssemblyReference.cache
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.AssemblyInfoInputs.cache
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.AssemblyInfo.cs
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.csproj.CoreCompileInputs.cache
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\bin\Debug\net6.0\2wayLinkedList.exe
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\bin\Debug\net6.0\2wayLinkedList.deps.json
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\bin\Debug\net6.0\2wayLinkedList.runtimeconfig.json
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\bin\Debug\net6.0\2wayLinkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\bin\Debug\net6.0\ref\2wayLinkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\bin\Debug\net6.0\2wayLinkedList.pdb
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\ref\2wayLinkedList.dll
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.pdb
+D:\VTC#\Algo & Data strct LAB exercises\2wayLinkedList\obj\Debug\net6.0\2wayLinkedList.genruntimeconfig.cache
